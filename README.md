@@ -147,6 +147,16 @@ jackie-zhu-project3/
 
 ---
 
+## How to Run the Website App Directly
+
+### Use Render App Link:
+
+```bash
+https://jiayi-zhu-project3.onrender.com
+```
+
+---
+
 ## How to Run Locally
 
 ### 1. Clone the Repository
