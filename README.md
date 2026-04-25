@@ -152,7 +152,7 @@ jackie-zhu-project3/
 ### 1. Clone the Repository
 
 ```bash
-git clone PASTE_YOUR_GITHUB_REPO_LINK_HERE
+git clone https://github.com/JackyZhu666/CS5610_Project3.git
 cd jackie-zhu-project3
 ```
 
