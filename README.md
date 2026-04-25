@@ -8,7 +8,7 @@ This project builds on the previous Sudoku projects by adding backend APIs, user
 
 ## Live Links
 
-- Deployed App: `PASTE_YOUR_DEPLOYED_APP_LINK_HERE`
+- Deployed App: https://jiayi-zhu-project3.onrender.com
 - GitHub Repo: https://github.com/JackyZhu666/CS5610_Project3.git
 
 ---
